@@ -1,1 +1,1 @@
-# worlde-bot
+# wordle-bot
